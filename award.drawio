@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-15T08:56:19.410Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="KDNa-7Q6SVZgO7ugg6JU" version="22.1.9" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-15T08:56:36.490Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ItmayD3-ntHhWa0zH_zP" version="22.1.9" type="github">
   <diagram name="Page-1" id="nWR7mEP1w_h45t-jmfyz">
     <mxGraphModel dx="1728" dy="989" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -111,13 +111,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY-eyeUETL0jjdREyAvG-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TeamProfitReportBuilderContext&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SetStrategy(IBuildTeamProfitReportStrategy)： void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;BuildReport(SearchResultModel):&amp;nbsp;BaseTeamProfitReportResponse&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="120" y="840" width="385" height="100" as="geometry" />
+          <mxGeometry x="120" y="820" width="385" height="100" as="geometry" />
         </mxCell>
         <mxCell id="pY-eyeUETL0jjdREyAvG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="pY-eyeUETL0jjdREyAvG-32" target="pY-eyeUETL0jjdREyAvG-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="pY-eyeUETL0jjdREyAvG-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPBuildStrategyFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CreateStrategy()： IBuildTeamProfitReportStrategy&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="150" y="665" width="300" height="100" as="geometry" />
+          <mxGeometry x="150" y="672.5" width="300" height="85" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
