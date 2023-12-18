@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T04:01:59.809Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="rfwkdHKG8NKMHt7SdBN9" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T06:07:51.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FOAJZQqYYgAlqWd7N7ow" version="22.1.11" type="github">
   <diagram name="Page-1" id="4Yxf_F3Yg8TCebHdQZ62">
     <mxGraphModel dx="2074" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -101,7 +101,7 @@
         <mxCell id="nZpgM6mxst-IkFDQiJev-42" value="rpt.shop_day" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1345" y="1250" width="90" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="nZpgM6mxst-IkFDQiJev-43" value="PfAsyncTmpData&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;type=PfLiveCc(场次概况)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;type=PfLiveCcSkuLevel(场次概况详情)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="nZpgM6mxst-IkFDQiJev-43" value="PfAsyncTmpData&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;Cc(场次概况)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;type=PfLiveCcSkuLevel(场次概况详情)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="595" y="1250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-44" value="app.cps_distributor_order&lt;br&gt;app.cps_distributor_order_item" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -193,6 +193,9 @@
             <mxPoint x="80" y="1190" as="sourcePoint" />
             <mxPoint x="1660" y="1190" as="targetPoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="nZpgM6mxst-IkFDQiJev-59" value="&lt;div&gt;PfLiveDd: 分佣场次临时数据&lt;/div&gt;&lt;div&gt;PfLiveCc: 直播场次临时数据&lt;/div&gt;&lt;div&gt;PfLiveCcSkuLevel: 直播场次的明细数据&lt;/div&gt;&lt;div&gt;PfLiveShop: 直播按店铺&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="595" y="1350" width="240" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
