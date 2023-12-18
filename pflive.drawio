@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T06:07:51.229Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="FOAJZQqYYgAlqWd7N7ow" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T06:09:04.873Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="uV246gZcx359KmDJ5A3O" version="22.1.11" type="github">
   <diagram name="Page-1" id="4Yxf_F3Yg8TCebHdQZ62">
     <mxGraphModel dx="2074" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -196,6 +196,9 @@
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-59" value="&lt;div&gt;PfLiveDd: 分佣场次临时数据&lt;/div&gt;&lt;div&gt;PfLiveCc: 直播场次临时数据&lt;/div&gt;&lt;div&gt;PfLiveCcSkuLevel: 直播场次的明细数据&lt;/div&gt;&lt;div&gt;PfLiveShop: 直播按店铺&lt;/div&gt;" style="text;html=1;align=left;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="595" y="1350" width="240" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="nZpgM6mxst-IkFDQiJev-60" value="工具" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="240" y="680" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
