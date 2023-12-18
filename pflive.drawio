@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-12-18T06:22:31.293Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="qLG3iNeTMpJxwpGmeQjG" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-18T06:23:30.620Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="cIHVCCnFQrHt4NND5M13" version="22.1.11" type="github">
   <diagram name="Page-1" id="4Yxf_F3Yg8TCebHdQZ62">
     <mxGraphModel dx="2074" dy="1187" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
@@ -96,19 +96,19 @@
           <mxGeometry x="150" y="1230" width="1580" height="130" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-41" value="PfLive&lt;br&gt;（场次信息、场次预提单、佣金模板、&lt;br&gt;商品佣金模板）" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="1250" width="230" height="70" as="geometry" />
+          <mxGeometry x="535" y="1250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-42" value="rpt.shop_day" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1460" y="1250" width="90" height="70" as="geometry" />
+          <mxGeometry x="1535" y="1250" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-43" value="PfAsyncTmpData&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;&lt;font color=&quot;#999999&quot;&gt;Cc(场次概况)&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;type=PfLiveCcSkuLevel(场次概况详情)&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="710" y="1250" width="230" height="70" as="geometry" />
+          <mxGeometry x="785" y="1250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-44" value="app.cps_distributor_order&lt;br&gt;app.cps_distributor_order_item" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="960" y="1250" width="230" height="70" as="geometry" />
+          <mxGeometry x="1035" y="1250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-45" value="app.fms_kwaishop_regimental_order&lt;br&gt;app.fms_kwaishop_regimental_order_item" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="1210" y="1250" width="230" height="70" as="geometry" />
+          <mxGeometry x="1285" y="1250" width="230" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-46" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="1360" y="750" width="270" height="390" as="geometry" />
@@ -201,13 +201,16 @@
           <mxGeometry x="310" y="680" width="50" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-61" value="PfContrast&lt;br&gt;人员信息" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
-          <mxGeometry x="350" y="1250" width="90" height="70" as="geometry" />
+          <mxGeometry x="425" y="1250" width="90" height="70" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-62" value="带货商品信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1025" y="1320" width="100" height="30" as="geometry" />
+          <mxGeometry x="1100" y="1320" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="nZpgM6mxst-IkFDQiJev-63" value="团长订单信息" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1275" y="1320" width="100" height="30" as="geometry" />
+          <mxGeometry x="1350" y="1320" width="100" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="nZpgM6mxst-IkFDQiJev-64" value="PfAnchorSkuSupplyPrice&lt;br&gt;主播供货价" style="rounded=0;whiteSpace=wrap;html=1;flipH=0;flipV=1;" vertex="1" parent="1">
+          <mxGeometry x="250" y="1250" width="155" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
