@@ -1,59 +1,68 @@
-<mxfile host="app.diagrams.net" modified="2023-12-21T15:22:53.722Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="pYfPv0oUr0q5Extm3YMD" version="22.1.11" type="github">
+<mxfile host="app.diagrams.net" modified="2023-12-23T12:36:29.807Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="ri9wGczK8VcunPu1sRNo" version="22.1.11" type="github">
   <diagram name="Page-1" id="nWR7mEP1w_h45t-jmfyz">
-    <mxGraphModel dx="1434" dy="947" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1687" dy="1114" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="V9BRFHTOARW8mtwPyIA8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-4" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=12 12;" vertex="1" parent="1">
+          <mxGeometry x="29" y="616" width="903" height="670" as="geometry" />
+        </mxCell>
+        <mxCell id="V9BRFHTOARW8mtwPyIA8-7" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="427" y="2963" width="542" height="60" as="geometry" />
         </mxCell>
         <mxCell id="pY-eyeUETL0jjdREyAvG-35" value="" style="group" parent="1" vertex="1" connectable="0">
           <mxGeometry x="150" y="701" width="850" height="660" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IBuildTeamProfitReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Build: BaseTeamProfitReportResponse&lt;br&gt;+ RegisterValueRester(ValueRecalculationDelegate): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-1" value="" style="group" vertex="1" connectable="0" parent="pY-eyeUETL0jjdREyAvG-35">
+          <mxGeometry x="-100" y="-53" width="850" height="603" as="geometry" />
+        </mxCell>
+        <mxCell id="pY-eyeUETL0jjdREyAvG-10" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;i&gt;&amp;lt;&amp;lt;Interface&amp;gt;&amp;gt;&lt;/i&gt;&lt;br&gt;&lt;b&gt;IBuildTeamProfitReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ Build: BaseTeamProfitReportResponse&lt;br&gt;+ RegisterValueRester(ValueRecalculationDelegate): void&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="530" width="320" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;dashed=1;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-15" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=blockThin;endFill=0;dashed=1;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-15" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPDefaultReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+&amp;nbsp;ValueReseteDelegater: ValueRecalculationDelegate&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetDrillMenu(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RegisterValueRester(ValueRecalculationDelegate): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-15" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPDefaultReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;span style=&quot;background-color: initial;&quot;&gt;+&amp;nbsp;ValueReseteDelegater: ValueRecalculationDelegate&lt;/span&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetDrillMenu(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ RegisterValueRester(ValueRecalculationDelegate): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="530" y="280" width="320" height="99" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-16" target="pY-eyeUETL0jjdREyAvG-15" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=0;exitDx=0;exitDy=0;endArrow=block;endFill=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-16" target="pY-eyeUETL0jjdREyAvG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPTeamRelatedReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ComputeData(): List&amp;lt;Dictionary&amp;lt;string, object&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetTreeNodeVisitPath(): Dictionary&amp;lt;int, List&amp;lt;string&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Pruning(Dictionary&amp;lt;string, object&amp;gt;): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;SortAndReSet(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-16" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPTeamRelatedReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ ComputeData(): List&amp;lt;Dictionary&amp;lt;string, object&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ GetTreeNodeVisitPath(): Dictionary&amp;lt;int, List&amp;lt;string&amp;gt;&amp;gt;&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;Pruning(Dictionary&amp;lt;string, object&amp;gt;): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;SortAndReSet(): void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="49" y="369" width="320" height="124" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPDep1ReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-17" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPDep1ReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry y="553" width="170" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPSummaryReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-18" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPSummaryReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="230" y="553" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-19" target="pY-eyeUETL0jjdREyAvG-15" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=block;endFill=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-19" target="pY-eyeUETL0jjdREyAvG-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPShopSkuReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-19" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;BuildTPShopSkuReportStrategy&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;div style=&quot;height:2px;&quot;&gt;&lt;/div&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="590" y="553" width="200" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-17" target="pY-eyeUETL0jjdREyAvG-16" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.11;entryY=1.012;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-17" target="pY-eyeUETL0jjdREyAvG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.876;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-18" target="pY-eyeUETL0jjdREyAvG-16" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-26" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.876;entryY=1.007;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=block;endFill=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-18" target="pY-eyeUETL0jjdREyAvG-16" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=diamond;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-30" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=1;entryDx=0;entryDy=0;startArrow=diamond;startFill=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-30" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TeamProfitReportBuilderContext&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SetStrategy(IBuildTeamProfitReportStrategy)： void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;BuildReport(SearchResultModel):&amp;nbsp;BaseTeamProfitReportResponse&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-30" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TeamProfitReportBuilderContext&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ SetStrategy(IBuildTeamProfitReportStrategy)： void&lt;/p&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+&amp;nbsp;BuildReport(SearchResultModel):&amp;nbsp;BaseTeamProfitReportResponse&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry y="160" width="385" height="100" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="pY-eyeUETL0jjdREyAvG-35" source="pY-eyeUETL0jjdREyAvG-32" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="Tj1MaYMXAtGNRFCH0c-N-1" source="pY-eyeUETL0jjdREyAvG-32" target="pY-eyeUETL0jjdREyAvG-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="pY-eyeUETL0jjdREyAvG-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPBuildStrategyFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CreateStrategy()： IBuildTeamProfitReportStrategy&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="pY-eyeUETL0jjdREyAvG-35" vertex="1">
+        <mxCell id="pY-eyeUETL0jjdREyAvG-32" value="&lt;p style=&quot;margin:0px;margin-top:4px;text-align:center;&quot;&gt;&lt;b&gt;TPBuildStrategyFactory&lt;/b&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;&lt;br&gt;&lt;/p&gt;&lt;hr size=&quot;1&quot;&gt;&lt;p style=&quot;margin:0px;margin-left:4px;&quot;&gt;+ CreateStrategy()： IBuildTeamProfitReportStrategy&lt;/p&gt;" style="verticalAlign=top;align=left;overflow=fill;fontSize=12;fontFamily=Helvetica;html=1;whiteSpace=wrap;" parent="Tj1MaYMXAtGNRFCH0c-N-1" vertex="1">
           <mxGeometry x="30" y="12.5" width="300" height="85" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-7" value="策略模式代码地址：胜算-冬枫\代码\S3.FMS\TeamProfit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="pY-eyeUETL0jjdREyAvG-35">
+          <mxGeometry x="-107" y="606" width="741" height="30" as="geometry" />
         </mxCell>
         <mxCell id="pY-eyeUETL0jjdREyAvG-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;" parent="1" vertex="1">
           <mxGeometry x="1497" y="1122" width="39" height="39" as="geometry" />
@@ -767,17 +776,29 @@
         <mxCell id="WaHGX-co-wVhsz-dFnBB-212" value="" style="shape=singleArrow;whiteSpace=wrap;html=1;arrowWidth=0.37777506510416664;arrowSize=0.376666259765625;fillColor=#009FE8;strokeColor=#36393d;" parent="1" vertex="1">
           <mxGeometry x="1008" y="2606" width="78" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="V9BRFHTOARW8mtwPyIA8-3" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9BRFHTOARW8mtwPyIA8-3" value="权限控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="456" y="2974" width="93" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="V9BRFHTOARW8mtwPyIA8-4" value="表头控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9BRFHTOARW8mtwPyIA8-4" value="表头控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="587" y="2974" width="93" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="V9BRFHTOARW8mtwPyIA8-5" value="周期控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9BRFHTOARW8mtwPyIA8-5" value="周期控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="718" y="2974" width="93" height="38" as="geometry" />
         </mxCell>
-        <mxCell id="V9BRFHTOARW8mtwPyIA8-6" value="排序控制" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="V9BRFHTOARW8mtwPyIA8-6" value="排序控制" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="849" y="2974" width="93" height="38" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-2" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="1001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="613" y="1001" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-6" value="策略模式类图" style="rounded=0;whiteSpace=wrap;html=1;direction=south;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="54" y="596" width="164" height="41" as="geometry" />
+        </mxCell>
+        <mxCell id="Tj1MaYMXAtGNRFCH0c-N-8" value="团队接口代码地址：胜算-冬枫\代码\S3.FMS\WebApi\Service\PF\TeamProfit" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=18;" vertex="1" parent="1">
+          <mxGeometry x="43" y="1337" width="741" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
