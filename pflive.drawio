@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-01-08T03:56:07.912Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="HJJiaRWAAg3EUaGm3Ui_" version="22.1.17" type="github">
+<mxfile host="app.diagrams.net" modified="2024-01-08T08:06:44.514Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 Edg/120.0.0.0" etag="5CY0bvFKph65C7KGmZ39" version="22.1.17" type="github">
   <diagram name="Page-1" id="4Yxf_F3Yg8TCebHdQZ62">
-    <mxGraphModel dx="1975" dy="1130" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
+    <mxGraphModel dx="1509" dy="997" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="2000" pageHeight="2000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -43,7 +43,7 @@
         <mxCell id="hUss3SKFeiQ75tnnukBr-45" value="人员&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="nZpgM6mxst-IkFDQiJev-47" vertex="1">
           <mxGeometry y="8.75" width="50" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="hUss3SKFeiQ75tnnukBr-15" value="&lt;font color=&quot;#ffffff&quot;&gt;场次&lt;br&gt;（带货场次、&lt;br&gt;自有场次、&lt;br&gt;自有&amp;amp;带货场次）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#121212;" parent="nZpgM6mxst-IkFDQiJev-47" vertex="1">
+        <mxCell id="hUss3SKFeiQ75tnnukBr-15" value="&lt;font color=&quot;#ffffff&quot;&gt;场次&lt;br&gt;（带货场次、&lt;br&gt;自有场次、&lt;br&gt;自有&amp;amp;带货场次）&lt;br&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#000033;" parent="nZpgM6mxst-IkFDQiJev-47" vertex="1">
           <mxGeometry x="50" width="130" height="390" as="geometry" />
         </mxCell>
         <mxCell id="hUss3SKFeiQ75tnnukBr-46" value="店铺&lt;br&gt;信息" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fillColor=#ffe6cc;strokeColor=#d79b00;" parent="nZpgM6mxst-IkFDQiJev-47" vertex="1">
@@ -223,6 +223,9 @@
         </mxCell>
         <mxCell id="YQstfmxYPoXNCcoOunF0-5" value="场次数据&lt;br style=&quot;border-color: var(--border-color);&quot;&gt;ruleList" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="60" y="1370" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="YQstfmxYPoXNCcoOunF0-9" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1696" y="1418" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
